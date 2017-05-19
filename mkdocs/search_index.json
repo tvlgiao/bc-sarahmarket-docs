@@ -421,6 +421,16 @@
             "title": "Homepage"
         }, 
         {
+            "location": "/upgrade/index.html", 
+            "text": "Upgrade Theme\n\n\nThis instruction below will help you upgrade the theme to the latest version.\n\n\nStep 1:\n Install the upgraded theme package like the new theme. See \ninstruction for installing theme\n here. \nBut DON'T active the the updraded theme yet.\n\n\nStep 2:\n Re-configure all theme settings in the Theme Editor for the new theme by click on button Customize in the thumbnail of the new upgraded theme: \n\n\n\n\nStep 3:\n Copy content of all files you've edited from to old version to the new version by editing the files in Edit Theme Files editor. See \nhow to edit template files\n. Files are often edited for customization are:\n\n\n\n\nlang/en.json\n\n\nassets/scss/_theme-custom.scss\n\n\ntemplates/pages/home.html\n\n\n\n\nStep 4:\n Activate the upgrade theme. If you see any error you can revert back to the old version by activating the old theme.", 
+            "title": "Upgrade Theme"
+        }, 
+        {
+            "location": "/upgrade/index.html#upgrade-theme", 
+            "text": "This instruction below will help you upgrade the theme to the latest version.  Step 1:  Install the upgraded theme package like the new theme. See  instruction for installing theme  here.  But DON'T active the the updraded theme yet.  Step 2:  Re-configure all theme settings in the Theme Editor for the new theme by click on button Customize in the thumbnail of the new upgraded theme:    Step 3:  Copy content of all files you've edited from to old version to the new version by editing the files in Edit Theme Files editor. See  how to edit template files . Files are often edited for customization are:   lang/en.json  assets/scss/_theme-custom.scss  templates/pages/home.html   Step 4:  Activate the upgrade theme. If you see any error you can revert back to the old version by activating the old theme.", 
+            "title": "Upgrade Theme"
+        }, 
+        {
             "location": "/support/index.html", 
             "text": "Help \n Support\n\n\nIf you have any problem, don't hesistate to contact us via email \n.\n\n\nOur working hours: Monday to Friday 8AM - 5PM GMT+8.\n\n\nWhat do we support and do not support?\n\n\nWe Do Support:\n\n\n\n\nProvide detailed documentation to help you install and configure the theme successfully by yourself.\n\n\nAnswer your enquiries about theme configuration and use.\n\n\nAnswer you how to edit and translate the language files.\n\n\nFix bugs of our themes ONLY if the source code are not modified.\n\n\n\n\nWe Do Not Support:\n\n\n\n\nAnswer you how to use BigCommerce, manage, edit or configure any built-in BigCommerce features which are not related to our themes. Please contact \nBigCommerce Support\n for help.\n\n\nUpgrading the theme on your store if the source code was modified by any reasons.\n\n\nEditing the theme's source code for your own requirements which the theme's current version is not supported. Except editing language files.\n\n\n\n\nNote: \nWe have right to answer or not answer you how to edit the theme's source code.", 
             "title": "Help & Support"
